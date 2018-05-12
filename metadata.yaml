@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9724'
     url: http://www.gutenberg.org/2009/agents/9724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24267#Picked-up-at-SeaThe-Gold-Miners-of-Minturne-Creek
 gutenberg_issued: '2008-01-13'
 gutenberg_type: Text
 identifiers:
