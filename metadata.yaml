@@ -1,0 +1,28 @@
+_repo: Picked-up-at-SeaThe-Gold-Miners-of-Minturne-Creek_24267
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutcheson, John C. (John Conroy)
+    alias: Hutcheson, John Conroy
+    gutenberg_agent_id: '9724'
+    url: http://www.gutenberg.org/2009/agents/9724
+description: ''
+gutenberg_issued: '2008-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories, English'
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcc 'PR'
+title: 'Picked up at Sea
+
+  The Gold Miners of Minturne Creek'
+url: http://www.gutenberg.org/ebooks/24267
